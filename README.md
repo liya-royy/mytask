@@ -5,7 +5,7 @@ A landing page for the IEEE Student Branch, College of Engineering Chengannur (C
 
 ## Live Demo
 
-[View Site](your-vercel-link-here)
+[View Site](https://mytaskpage.netlify.app/)
 
 ## GitHub Repository
 

@@ -16,7 +16,7 @@ https://github.com/liya-royy/mytask
 * **Framework:** Next.js 14 (App Router)
 * **Styling:** Tailwind CSS
 * **Fonts:** Syne, DM Sans, Space Mono (Google Fonts)
-* **Deployment:** Vercel
+* **Deployment:** Netlify
 
 ## Sections
 
